@@ -37,13 +37,6 @@
 	/* shadows */
 	--ss-box-shadow-1:  .16em .16em 0 #0227417d;
 
-	/*/* store */
-	--egg-pack-small-bg: linear-gradient(146deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, var(--ss-blue2) 60%);
-	--egg-pack-md-bg: linear-gradient(146deg, rgba(2,0,36,1) 0%, var(--ss-blue4) 0%, var(--ss-blue3) 60%);
-	--egg-pack-lg-bg: linear-gradient(146deg, rgba(2,0,36,1) 0%,  var(--ss-blue5) 0%,  var(--ss-blue3) 90%);
-	--ocean-logo: url("https://raw.githubusercontent.com/1nf1n1t3Sm4sh3r/mmTest/main/themes/img/graysocean_logo.svg");
-}*/
-
 .single-egg-store-item-is-bundle .single-egg-store-header {
 	background-color: var(--ss-blue4);
 	color: var(--ss-blue5);
