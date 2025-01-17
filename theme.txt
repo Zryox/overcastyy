@@ -144,7 +144,7 @@
 #logo-svg {
 	content: var(--ocean-logo) !important;
 }
-
+/*
 #megaModLogo {
 	content: url('https://raw.githubusercontent.com/1nf1n1t3Sm4sh3r/mmTest/main/themes/img/graysocean_megaMod.png');
 }
@@ -587,4 +587,4 @@ h1,
 
 .megamod-popup tbody tr:nth-child(even) {
 	background: var(--ss-blue6) !important;
-}
+}*/
